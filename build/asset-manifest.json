@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe8339e0.chunk.css",
+    "main.js": "/static/js/main.b5a9c5a2.chunk.js",
+    "main.js.map": "/static/js/main.b5a9c5a2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/css/2.488f0ad5.chunk.css": "/static/css/2.488f0ad5.chunk.css",
+    "static/js/2.8210c8d9.chunk.js": "/static/js/2.8210c8d9.chunk.js",
+    "static/js/2.8210c8d9.chunk.js.map": "/static/js/2.8210c8d9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8ed712c2f0b24ee8d54b71856bcc85f2.js": "/precache-manifest.8ed712c2f0b24ee8d54b71856bcc85f2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.488f0ad5.chunk.css.map": "/static/css/2.488f0ad5.chunk.css.map",
+    "static/css/main.fe8339e0.chunk.css.map": "/static/css/main.fe8339e0.chunk.css.map",
+    "static/js/2.8210c8d9.chunk.js.LICENSE.txt": "/static/js/2.8210c8d9.chunk.js.LICENSE.txt",
+    "static/media/Hyderabadjourney.png": "/static/media/Hyderabadjourney.87ab9e20.png",
+    "static/media/Web devloper_Resume.docx": "/static/media/Web devloper_Resume.b2bff4cc.docx",
+    "static/media/aacismaharjan-loading-logo.svg": "/static/media/aacismaharjan-loading-logo.90612ea9.svg",
+    "static/media/amazon.png": "/static/media/amazon.fc6619de.png",
+    "static/media/app-landingpage.png": "/static/media/app-landingpage.b65312c8.png",
+    "static/media/coolors.jpg": "/static/media/coolors.432d7724.jpg",
+    "static/media/covid-19.png": "/static/media/covid-19.b738210f.png",
+    "static/media/getwatch.jpg": "/static/media/getwatch.459985af.jpg",
+    "static/media/github_user_stats.jpg": "/static/media/github_user_stats.07efa94c.jpg",
+    "static/media/itlabs.png": "/static/media/itlabs.49e03ef5.png",
+    "static/media/landing_page_template.jpg": "/static/media/landing_page_template.0bbcde6d.jpg",
+    "static/media/mern-twitter-clone.png": "/static/media/mern-twitter-clone.156371b9.png",
+    "static/media/quizbee.jpg": "/static/media/quizbee.288825a4.jpg",
+    "static/media/rms.jpg": "/static/media/rms.f27da5af.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/css/2.488f0ad5.chunk.css",
+    "static/js/2.8210c8d9.chunk.js",
+    "static/css/main.fe8339e0.chunk.css",
+    "static/js/main.b5a9c5a2.chunk.js"
+  ]
+}
